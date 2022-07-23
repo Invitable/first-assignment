@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.image-1 {
+    background-image: linear-gradient(50deg, #000000, #e7dfdf1f), url('images/donation10.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+
+.header-text {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 15%;
+    color: white;
+    font-size: 20px;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-image: linear-gradient(red, blue);
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.today-donate {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(144, 7, 7);
+    margin-top: 100px;
+}
+
+.today-paragraph {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.tk-amount {
+    height: 100px;
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+
+}
+
+.tk {
+    height: 84px;
+    width: 17%;
+    margin: 8Px;
+    text-align: center;
+    background-color: rgb(201, 201, 201);
+
+}
+
+.tk-paragraph {
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 8px;
+}
+
+.tk-500 {
+    border: 3px solid red;
+    color: red;
+    background-color: rgb(229, 208, 208);
+
+}
