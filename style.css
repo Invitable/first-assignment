@@ -52,7 +52,8 @@ body {
     width: 50%;
     margin-left: 25%;
     display: flex;
-
+    margin-bottom: 50px;
+    padding-left: 20px;
 }
 
 .tk {
@@ -61,7 +62,7 @@ body {
     margin: 8Px;
     text-align: center;
     background-color: rgb(201, 201, 201);
-
+    margin-bottom: 20px;
 }
 
 .tk-paragraph {
@@ -76,5 +77,85 @@ body {
     border: 3px solid red;
     color: red;
     background-color: rgb(229, 208, 208);
+    height: 80px;
 
+}
+
+.other-taka {
+    text-align: center;
+    color: rgb(40, 39, 39);
+}
+
+hr {
+    margin-left: 26%;
+    margin-right: 26%;
+    margin-bottom: 20px;
+}
+
+.donate {
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    background-image: linear-gradient(red, blue, green);
+    border-radius: 5px;
+    margin-left: 46%;
+}
+
+.heading-paln {
+    margin-top: 60px;
+    text-decoration: center;
+    color: rgb(68, 6, 6);
+    margin-left: 42%;
+}
+
+.heading-plan {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.plan-section {
+    height: 300px;
+    width: 80%;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img {
+    height: 50px;
+    width: 70px;
+}
+
+.image {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.food {
+    height: 300px;
+    width: 32%;
+    margin-right: 2%;
+    background-color: rgb(198, 222, 241);
+}
+
+.shelter {
+    height: 300px;
+    width: 32%;
+    margin-right: 2%;
+    background-color: rgb(194, 197, 255);
+}
+
+.education {
+    height: 300px;
+    width: 32%;
+    background-color: rgb(185, 254, 209);
+
+}
+
+.plan {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
 }
