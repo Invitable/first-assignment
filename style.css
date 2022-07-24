@@ -159,3 +159,90 @@ img {
     padding-right: 15px;
     text-align: justify;
 }
+
+.lives-depend {
+    margin-top: 100px;
+    display: flex;
+    height: 300px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.lives {
+    padding: 20px;
+    height: 300px;
+    width: 40%
+}
+
+.image-2 {
+    margin-left: 5%;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 300px;
+    position: relative;
+}
+
+.image-3 {
+    margin-right: 5%;
+    background-image: url(images/1stbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 300px;
+    position: relative;
+}
+
+.my-update {
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 50px;
+
+}
+
+.update-paragraph {
+    text-align: center;
+}
+
+.final-section {
+    width: 60%;
+    height: 100px;
+    margin-left: 20%;
+    background-color: rgb(216, 214, 180);
+}
+
+.email-div {
+    padding-top: 45px;
+    margin-left: 40%;
+}
+
+#email-label {
+    background-image: linear-gradient(white, blue);
+
+
+}
+
+.finla-div {
+    margin-top: 50px;
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
+
+.humble {
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 50px;
+    color: red;
+    margin-bottom: 0;
+}
+
+.humble-pragraph {
+    margin-top: 0;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+}
